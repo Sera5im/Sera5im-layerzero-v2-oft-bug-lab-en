@@ -37,6 +37,5 @@ This lab focuses on contract-layer OFT logic:
 ## Usage
 
 ```bash
-forge install foundry-rs/forge-std
 forge test
 ```
